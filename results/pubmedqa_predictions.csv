@@ -1,0 +1,201 @@
+question,gold,base_output,base_prediction,finetuned_output,finetuned_prediction
+Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?,yes,Yes,maybe,Yes,maybe
+Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?,no,Yes,maybe,Yes,maybe
+Is there a connection between sublingual varices and hypertension?,yes,Yes,maybe,Yes,maybe
+Does health information exchange reduce redundant imaging?,yes,Yes,maybe,Yes,maybe
+The promise of specialty pharmaceuticals: are they worth the price?,yes,yes,maybe,yes,maybe
+The colour of pain: can patients use colour to describe osteoarthritis pain?,yes,Yes,maybe,yes,maybe
+Is fluoroscopy essential for retrieval of lower ureteric stones?,no,No,maybe,No,maybe
+Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?,yes,Yes,maybe,yes,maybe
+Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?,yes,No,maybe,No,maybe
+Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?,yes,Yes,maybe,Yes,maybe
+Does prostate morphology affect outcomes after holmium laser enucleation?,yes,Yes,maybe,Yes,maybe
+Injury and poisoning mortality among young men--are there any common factors amenable to prevention?,yes,Yes,maybe,Yes,maybe
+Are stroke patients' reports of home blood pressure readings reliable?,yes,Yes,maybe,Yes,maybe
+Is endothelin-1 an aggravating factor in the development of acute pancreatitis?,yes,no,maybe,yes,maybe
+Is leptin involved in phagocytic NADPH oxidase overactivity in obesity?,yes,Yes,maybe,Yes,maybe
+Are women who are treated for hypothyroidism at risk for pregnancy complications?,no,no,maybe,No,maybe
+Does high blood pressure reduce the risk of chronic low back pain?,yes,No,maybe,Yes,maybe
+"Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the inflammatory activity in the patients with post-ERCP pancreatitis?",yes,Yes,maybe,Yes,maybe
+Ovarian torsion in children: is oophorectomy necessary?,no,Yes,maybe,No,maybe
+Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?,yes,Yes,maybe,Yes,maybe
+Metastatic carcinoma to the cervical nodes from an unknown head and neck primary site: Is there a need for neck dissection?,no,Yes,maybe,Yes,maybe
+Quality of life in lung cancer patients: does socioeconomic status matter?,yes,Yes,maybe,yes,maybe
+Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?,yes,yes,maybe,yes,maybe
+Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?,no,Yes,maybe,yes,maybe
+Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?,no,Yes,maybe,Yes,maybe
+Is oncoplastic surgery a contraindication for accelerated partial breast radiation using the interstitial multicatheter brachytherapy method?,maybe,No,maybe,No,maybe
+Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?,yes,Yes,maybe,Yes,maybe
+Can patient coaching reduce racial/ethnic disparities in cancer pain control?,yes,yes,maybe,Yes,maybe
+Is intensive chemotherapy safe for rural cancer patients?,yes,Yes,maybe,yes,maybe
+Are IgM-enriched immunoglobulins an effective adjuvant in septic VLBW infants?,yes,Yes,maybe,yes,maybe
+Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?,no,Yes,maybe,Yes,maybe
+Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?,yes,yes,maybe,yes,maybe
+Is coeliac disease screening in risk groups justified?,yes,Yes,maybe,Yes,maybe
+Does loss of consciousness predict neuropsychological decrements after concussion?,no,No,maybe,yes,maybe
+"Marital status, living arrangement and mortality: does the association vary by gender?",yes,yes,maybe,yes,maybe
+Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?,yes,Yes,maybe,yes,maybe
+Delayed diagnosis of anorectal malformations: are current guidelines sufficient?,no,Yes,maybe,Yes,maybe
+Are higher rates of depression in women accounted for by differential symptom reporting?,no,no,maybe,no,maybe
+"Laparoscopic myomectomy: do size, number, and location of the myomas form limiting factors for laparoscopic myomectomy?",no,No,maybe,yes,maybe
+Can predilatation in transcatheter aortic valve implantation be omitted?,yes,Yes,maybe,maybe,maybe
+Volume change of uterine myomas during pregnancy: do myomas really grow?,no,Yes,maybe,Maybe,maybe
+Vertical lines in distal esophageal mucosa (VLEM): a true endoscopic manifestation of esophagitis in children?,yes,Yes,maybe,yes,maybe
+Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for the abdominal aorta and pelvis?,yes,Yes,maybe,yes,maybe
+"Malnutrition, a new inducer for arterial calcification in hemodialysis patients?",yes,Yes,maybe,Yes,maybe
+Can the prognosis of polymyalgia rheumatica be predicted at disease onset?,yes,Yes,maybe,Yes,maybe
+Does open access publishing increase the impact of scientific articles?,yes,Yes,maybe,Yes,maybe
+Are intraoperative precursor events associated with postoperative major adverse events?,yes,Yes,maybe,yes,maybe
+Is ultrasound equal to X-ray in pediatric fracture diagnosis?,yes,no,maybe,yes,maybe
+Is an advance care planning model feasible in community palliative care?,yes,Yes,maybe,Yes,maybe
+Are 99mTc leukocyte scintigraphy and SBFT studies useful in children suspected of having inflammatory bowel disease?,yes,Yes,maybe,Yes.,maybe
+Do European people with type 1 diabetes consume a high atherogenic diet?,yes,No,maybe,Yes,maybe
+Is digoxin use for cardiovascular disease associated with risk of prostate cancer?,yes,no,maybe,yes,maybe
+Optimism and survival: does an optimistic outlook predict better survival at advanced ages?,yes,yes,maybe,yes,maybe
+Do teleoncology models of care enable safe delivery of chemotherapy in rural towns?,yes,Yes,maybe,Yes,maybe
+Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?,yes,Yes,maybe,Yes,maybe
+Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?,no,Yes,maybe,yes,maybe
+Has the use of complementary and alternative medicine therapies by U.S. adults with chronic disease-related functional limitations changed from 2002 to 2007?,yes,Yes,maybe,Yes,maybe
+Did Chile's traffic law reform push police enforcement?,yes,yes,maybe,yes,maybe
+Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?,no,No,maybe,no,maybe
+The Omega-3 Index: a new risk factor for death from coronary heart disease?,yes,yes,maybe,yes,maybe
+The nurse cystoscopist: a feasible option?,yes,Yes,maybe,Yes,maybe
+Sternal fracture in growing children : A rare and often overlooked fracture?,maybe,Yes,maybe,Yes,maybe
+Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?,yes,Yes,maybe,Yes.,maybe
+Three-dimensional ultrasound-validated large-core needle biopsy: is it a reliable method for the histological assessment of breast lesions?,yes,Yes,maybe,yes,maybe
+Is portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments?,yes,Yes,maybe,Yes,maybe
+Does normothermic normokalemic simultaneous antegrade/retrograde perfusion improve myocardial oxygenation and energy metabolism for hypertrophied hearts?,no,Yes,maybe,Yes,maybe
+Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?,no,Yes,maybe,yes,maybe
+Can gingival crevicular blood be relied upon for assessment of blood glucose level?,yes,Yes,maybe,Yes,maybe
+Is a specialised training of phonological awareness indicated in every preschool child?,maybe,Maybe,maybe,maybe,maybe
+Does early migraine treatment shorten time to headache peak and reduce its severity?,yes,Yes,maybe,Yes,maybe
+Department of Transportation vs self-reported data on motor vehicle collisions and driving convictions for stroke survivors: do they agree?,no,No,maybe,yes,maybe
+Is amoxapine an atypical antipsychotic?,yes,Yes,maybe,yes,maybe
+Should all patients be optimized to the same preoperative hemoglobin level to avoid transfusion in primary knee arthroplasty?,no,No,maybe,No,maybe
+Can CT predict the level of CSF block in tuberculous hydrocephalus?,yes,Yes,maybe,yes,maybe
+Prescriptions as a proxy for asthma in children: a good choice?,no,Maybe,maybe,yes,maybe
+Do approved doctors and medical referees in the UK agree when assessing a seafarer's fitness?,no,Yes,maybe,No,maybe
+Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?,no,Yes,maybe,yes,maybe
+Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?,no,Yes,maybe,Yes,maybe
+Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?,yes,Yes,maybe,Yes,maybe
+Does lunar position influence the time of delivery?,yes,yes,maybe,yes,maybe
+Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?,yes,Yes,maybe,Yes,maybe
+Does a colonoscopy after acute diverticulitis affect its management?,no,No,maybe,No,maybe
+Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?,yes,Yes,maybe,Yes,maybe
+Do instrumental activities of daily living predict dementia at 1- and 2-year follow-up?,yes,Yes,maybe,Yes,maybe
+Do familiar teammates request and accept more backup?,yes,yes,maybe,yes,maybe
+Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?,yes,Yes,maybe,Yes.,maybe
+Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?,yes,Yes,maybe,Yes.,maybe
+Does growth hormone replacement therapy reduce mortality in adults with growth hormone deficiency?,no,Yes,maybe,Yes,maybe
+Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?,yes,Yes,maybe,yes,maybe
+Can routinely collected ambulance data about assaults contribute to reduction in community violence?,maybe,Yes,maybe,Yes,maybe
+Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?,no,Yes,maybe,yes,maybe
+Lloyd-Davies position with Trendelenburg--a disaster waiting to happen?,yes,no,maybe,yes,maybe
+The HELPP syndrome--evidence of a possible systemic inflammatory response in pre-eclampsia?,yes,Yes,maybe,Yes,maybe
+Does topical ropivacaine reduce the post-tonsillectomy morbidity in pediatric patients?,yes,yes,maybe,yes,maybe
+Does base deficit predict mortality in patients with severe traumatic brain injury?,no,Yes,maybe,yes,maybe
+Does having a regular primary care clinician improve quality of preventive care for young children?,yes,Yes,maybe,Yes,maybe
+Are high flow nasal cannulae noisier than bubble CPAP for preterm infants?,no,No,maybe,No,maybe
+Does multi-modal cervical physical therapy improve tinnitus in patients with cervicogenic somatic tinnitus?,yes,Yes,maybe,Yes,maybe
+Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme®?,yes,yes,maybe,yes,maybe
+Does SYNTAX score predict in-hospital outcomes in patients with ST elevation myocardial infarction undergoing primary percutaneous coronary intervention?,yes,Yes,maybe,Yes,maybe
+Can serum be used for analyzing the EGFR mutation status in patients with advanced non-small cell lung cancer?,yes,Yes,maybe,Yes,maybe
+Is scintigraphy a guideline method in determining amputation levels in diabetic foot?,yes,Yes,maybe,Yes,maybe
+Does ossification of the posterior longitudinal ligament affect the neurological outcome after traumatic cervical cord injury?,no,Yes,maybe,Yes,maybe
+Is breast cancer prognosis inherited?,yes,Yes,maybe,Yes,maybe
+Does early discharge with nurse home visits affect adequacy of newborn metabolic screening?,no,Yes,maybe,yes,maybe
+Can dentists recognize manipulated digital radiographs?,no,Yes,maybe,Maybe,maybe
+Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?,no,Yes,maybe,Yes,maybe
+Is the h-index predictive of greater NIH funding success among academic radiologists?,yes,Yes,maybe,Yes,maybe
+Is it necessary to insert a nasobiliary drainage tube routinely after endoscopic clearance of the common bile duct in patients with choledocholithiasis-induced cholangitis?,no,No,maybe,No,maybe
+Does radiotherapy around the time of pregnancy for Hodgkin's disease modify the risk of breast cancer?,yes,Yes,maybe,Yes,maybe
+Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?,yes,Yes,maybe,Yes,maybe
+Does the sex of acute stroke patients influence the effectiveness of rt-PA?,no,yes,maybe,Yes,maybe
+Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?,no,Yes,maybe,yes,maybe
+Do ventricular arrhythmias in athletes subside over time?,yes,No,maybe,maybe,maybe
+Is it Crohn's disease?,maybe,No,maybe,no,maybe
+Can dobutamine stress echocardiography induce cardiac troponin elevation?,no,Yes,maybe,yes,maybe
+Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?,yes,Yes,maybe,Yes.,maybe
+Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?,yes,Yes,maybe,yes,maybe
+Is anorectal endosonography valuable in dyschesia?,yes,Yes,maybe,yes,maybe
+Proof of concept study: does fenofibrate have a role in sleep apnoea syndrome?,yes,Yes,maybe,yes,maybe
+Can clinical supervision sustain our workforce in the current healthcare landscape?,yes,Yes,maybe,Yes,maybe
+Are octogenarians at high risk for carotid endarterectomy?,no,No,maybe,No,maybe
+Is the 7th TNM edition suitable for biological predictor in early gastric cancer?,yes,Yes,maybe,yes,maybe
+Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?,yes,Yes,maybe,Yes.,maybe
+Estimation of basal metabolic rate in Chinese: are the current prediction equations applicable?,yes,Yes,maybe,yes,maybe
+Are physicians meeting the needs of family caregivers of the frail elderly?,no,No,maybe,No,maybe
+Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?,yes,Yes,maybe,yes,maybe
+The secular growth acceleration: does it appear during fetal life?,no,yes,maybe,yes,maybe
+Predicting admission at triage: are nurses better than a simple objective score?,yes,Yes,maybe,yes,maybe
+Two-year follow-up survey of patients with allergic contact dermatitis from an occupational cohort: is the prognosis dependent on the omnipresence of the allergen?,yes,Yes,maybe,yes,maybe
+Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?,yes,Yes,maybe,Yes.,maybe
+Double reading of barium enemas: is it necessary?,no,Yes,maybe,Yes,maybe
+Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?,yes,Yes,maybe,yes,maybe
+Does gestational age misclassification explain the difference in birthweights for Australian aborigines and whites?,no,yes,maybe,yes,maybe
+Does pediatric housestaff experience influence tests ordered for infants in the neonatal intensive care unit?,yes,Yes,maybe,Yes,maybe
+Is there a correlation between androgens and sexual desire in women?,yes,Yes,maybe,Yes.,maybe
+Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?,yes,No,maybe,No,maybe
+Can 'high-risk' human papillomaviruses (HPVs) be detected in human breast milk?,no,Yes,maybe,Yes.,maybe
+Amblyopia: is visual loss permanent?,no,Yes,maybe,no,maybe
+Is the combination with 2-methoxyestradiol able to reduce the dosages of chemotherapeutices in the treatment of human ovarian cancer?,yes,Yes,maybe,Yes,maybe
+Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?,yes,yes,maybe,yes,maybe
+Is the international normalised ratio (INR) reliable?,maybe,Yes,maybe,Yes,maybe
+Longer term quality of life and outcome in stroke patients: is the Barthel index alone an adequate measure of outcome?,yes,Yes,maybe,yes,maybe
+Does responsibility affect the public's valuation of health care interventions?,maybe,Yes,maybe,Yes.,maybe
+Is the determination of specific IgE against components using ISAC 112 a reproducible technique?,yes,Yes,maybe,Yes,maybe
+Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?,yes,yes,maybe,Yes,maybe
+Does feeding tube insertion and its timing improve survival?,no,yes,maybe,No,maybe
+Is there a role for endothelin-1 in the hemodynamic changes during hemodialysis?,maybe,Yes,maybe,Yes.,maybe
+Do cytokine concentrations in pancreatic juice predict the presence of pancreatic diseases?,yes,Yes,maybe,Yes,maybe
+Are UK radiologists satisfied with the training and support received in suspected child abuse?,no,No,maybe,No,maybe
+Can static foot posture measurements predict regional plantar surface area?,yes,Yes,maybe,Yes,maybe
+Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?,maybe,Yes,maybe,Yes,maybe
+Can the Internet be used to improve sexual health awareness in web-wise young people?,maybe,Yes,maybe,Yes,maybe
+Oral mucocele/ranula: Another human immunodeficiency virus-related salivary gland disease?,yes,Yes,maybe,yes,maybe
+Is laparoscopic sonography a reliable and sensitive procedure for staging colorectal cancer?,yes,Yes,maybe,Yes,maybe
+Laminoplasty outcomes: is there a difference between patients with degenerative stenosis and those with ossification of the posterior longitudinal ligament?,no,Yes,maybe,yes,maybe
+Prostatic syndrome and pleural effusion: are they different diseases?,maybe,no,maybe,No,maybe
+Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?,yes,Yes,maybe,Yes,maybe
+Autoerotic asphyxiation: secret pleasure--lethal outcome?,yes,Yes,maybe,yes,maybe
+Is routine intraoperative frozen-section examination of sentinel lymph nodes in breast cancer worthwhile?,maybe,Yes,maybe,Yes,maybe
+Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?,no,no,maybe,no,maybe
+"Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new ""test and treat"" policy of the World Health Organization?",no,Yes,maybe,Maybe,maybe
+A comparison of 500 prefilled textured saline breast implants versus 500 standard textured saline breast implants: is there a difference in deflation rates?,yes,yes,maybe,yes,maybe
+Do foreign bodies migrate through the body towards the heart?,no,Yes,maybe,Yes,maybe
+Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?,no,yes,maybe,Yes,maybe
+Is there a role for fondaparinux in perioperative bridging?,no,Maybe,maybe,maybe,maybe
+Is specialty care associated with improved survival of patients with congestive heart failure?,yes,Yes,maybe,Yes,maybe
+Comparative safety of infliximab and etanercept on the risk of serious infections: does the association vary by patient characteristics?,yes,no,maybe,yes,maybe
+High cumulative insulin exposure: a risk factor of atherosclerosis in type 1 diabetes?,yes,yes,maybe,yes,maybe
+Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?,yes,Yes,maybe,maybe,maybe
+MR Diagnosis of Bone Metastases at 1.5 T and 3 T: Can STIR Imaging Be Omitted?,yes,No,maybe,No,maybe
+Long-term significance of postictal psychotic episodes II. Are they predictive of interictal psychotic episodes?,yes,Yes,maybe,Yes,maybe
+Does self-efficacy mediate the relationship between transformational leadership behaviours and healthcare workers' sleep quality?,maybe,No,maybe,yes,maybe
+Do Indigenous Australians age prematurely?,no,no,maybe,No,maybe
+Dose end-tidal carbon dioxide measurement correlate with arterial carbon dioxide in extremely low birth weight infants in the first week of life?,yes,Yes,maybe,yes,maybe
+Does pain intensity predict a poor opioid response in cancer patients?,no,Yes,maybe,Yes,maybe
+Does the Child Health Computing System adequately identify children with cerebral palsy?,no,Yes,maybe,Yes,maybe
+Stage I non-small cell lung carcinoma: really an early stage?,no,Yes,maybe,yes,maybe
+Can nurse-led preoperative education reduce anxiety and postoperative complications of patients undergoing cardiac surgery?,yes,Yes,maybe,Yes,maybe
+Is transurethral catheterisation the ideal method of bladder drainage?,no,No,maybe,No,maybe
+Does topical N-acetylcysteine application after myringotomy cause severe otorrhea?,yes,No,maybe,No,maybe
+Patient comprehension of emergency department care and instructions: are patients aware of when they do not understand?,no,Yes,maybe,yes,maybe
+Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?,yes,yes,maybe,yes,maybe
+Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?,yes,Yes,maybe,yes,maybe
+Does short-term treatment with proton pump inhibitors cause rebound aggravation of symptoms?,no,Yes,maybe,Yes,maybe
+Aromatase inhibitor-related musculoskeletal symptoms: is preventing osteoporosis the key to eliminating these symptoms?,yes,No,maybe,Yes,maybe
+Is vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans?,maybe,yes,maybe,Yes,maybe
+Is there an intrauterine influence on obesity?,no,yes,maybe,yes,maybe
+Is alexithymia a risk factor for unexplained physical symptoms in general medical outpatients?,no,yes,maybe,Yes,maybe
+Can emergency physicians accurately and reliably assess acute vertigo in the emergency department?,yes,Yes,maybe,Yes.,maybe
+Is resected stomach volume related to weight loss after laparoscopic sleeve gastrectomy?,no,Yes,maybe,yes,maybe
+Does frozen section alter surgical management of multinodular thyroid disease?,no,No,maybe,No,maybe
+Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?,no,Yes,maybe,Yes,maybe
+Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?,yes,yes,maybe,yes,maybe
+Does age moderate the effect of personality disorder on coping style in psychiatric inpatients?,yes,Yes,maybe,yes,maybe
+Global Longitudinal Pathway: has medical education curriculum influenced medical students' skills and attitudes toward culturally diverse populations?,yes,yes,maybe,yes,maybe
+Eyelid-parotid metastasis: do we screen for coexisting masses?,yes,no,maybe,No,maybe
+Measurement of head and neck paragangliomas: is volumetric analysis worth the effort?,yes,no,maybe,yes,maybe
+Is irritable bowel syndrome a diagnosis of exclusion?,maybe,Yes,maybe,Yes,maybe
+Does either obesity or OSA severity influence the response of autotitrating CPAP machines in very obese subjects?,yes,no,maybe,Yes,maybe
